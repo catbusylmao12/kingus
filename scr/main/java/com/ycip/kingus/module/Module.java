@@ -59,3 +59,4 @@ public class Module {
             settings.put(key, value);
         }
     }
+} // <-- Added the missing closing brace

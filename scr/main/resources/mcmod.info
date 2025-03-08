@@ -1,0 +1,16 @@
+[
+{
+  "modid": "animations",
+  "name": "Animations",
+  "description": "Animaitons",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Syuto"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

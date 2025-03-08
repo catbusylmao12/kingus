@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "minVersion": "0.7",
+  "package": "com.syuto.animations.mixins",
+  "refmap": "mixins.animations.refmap.json",
+  "compatibilityLevel": "JAVA_8",
+  "client": [
+    "ItemRendererAccessor",
+    "MixinItemRenderer",
+    "EntityLivingBaseMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
